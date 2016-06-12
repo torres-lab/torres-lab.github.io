@@ -17,11 +17,9 @@ p {
     color: #333;
 }
 li {
-    font-size: 1em;
+    font-size: 1.4em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #333;
-    font-weight: bold;
-
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
