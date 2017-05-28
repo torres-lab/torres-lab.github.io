@@ -1,6 +1,6 @@
 # Resources for making colorful figures
 
-Graphical displays of information are commonplace in the Geosciences. While the underlying information they display is more or less immutable, scientists have a choice on exactly *how* this information is conveyed graphically. While I'd like to believe that more aesthetically pleasing figures display data more effectively [], I have to admit that I do enjoy the "art" of preparing figures. While there are many elements that go into preparing figures, this post will focus on some of the resources that I have found helpful for choosing color schemes.
+Graphical displays of information are commonplace in the Geosciences. While the underlying information they display is more or less immutable, scientists have a choice on exactly *how* this information is conveyed graphically. While I'd like to believe that more aesthetically pleasing figures display data more effectively, I have to admit that I do enjoy the "art" of preparing figures. While there are many elements that go into preparing figures, this post will focus on some of the resources that I have found helpful for choosing color schemes.
 
 * [Color Brewer](http://colorbrewer2.org/)
 
@@ -12,7 +12,7 @@ These colormaps were designed to better represent how our brain relates changes 
 
 * [Color Hexa](http://www.colorhexa.com/)
 
-This is a very detailed "Color encyclopedia". I find it helpful for converting between colorspaces (i.e. RGB to CMYK).
+This is a very detailed "Color encyclopedia". I find it helpful for converting between colorspaces (e.g., RGB to CMYK).
 
 * [Color blindness simulator](http://www.etre.com/tools/colourblindsimulator/)
 
